@@ -12,7 +12,7 @@ Installers:
   Architecture: x86
   InstallerType: exe
   Scope: machine
-  InstallerUrl: https://download.internetdownloadmanager.com/idman639build2.exe
+  InstallerUrl: http://mirror2.internetdownloadmanager.com/idman639build2.exe
   InstallerSha256: 1D364C185082BF798F4FF21F33B63C84CC1407CA33BE17793990190B59D2042C
   InstallerSwitches:
     Silent: /skipdlgs
